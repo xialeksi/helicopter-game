@@ -1,0 +1,15 @@
+Programming: Aleksi Pakkanen
+
+Helicopter art: https://opengameart.org/content/helicopter-2
+
+Background art: https://opengameart.org/content/snowy-stone-wall-rock-walls
+
+Explosion art: https://opengameart.org/content/pixel-explosion-12-frames
+
+Smoke art: https://opengameart.org/content/smoke-fire-animated-particle-16x16
+
+Explosion sound: https://opengameart.org/content/single-and-multi-explosion
+
+Helicopter sound: https://opengameart.org/content/engine-loop-heavy-vehicletank
+
+Font: https://somepx.itch.io/humble-fonts-gold
